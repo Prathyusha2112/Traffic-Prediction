@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 11 10:40:12 2018
-
-@author: saije
-"""
-
 
 # Importing the libraries
 import numpy as np
